@@ -44,4 +44,4 @@ This project is under **MIT License**.
 
 
 
-  [medium article]: https://medium.com/SalathielGenese/not-yet-available.
+  [medium article]: https://medium.com/@salathielgenese/setup-typescript-for-modern-browser-a75d699673f6
