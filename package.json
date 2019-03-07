@@ -3,5 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "SalathielGenese <salathielgenese@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.1",
+    "typescript": "^3.3.3333"
+  }
 }
