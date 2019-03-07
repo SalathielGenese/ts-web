@@ -4,6 +4,10 @@
   "main": "index.js",
   "author": "SalathielGenese <salathielgenese@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "build": "yarn run tsc",
+    "serve": "yarn run live-server"
+  },
   "devDependencies": {
     "live-server": "^1.2.1",
     "typescript": "^3.3.3333"
